@@ -227,7 +227,7 @@ def Quit():
     print(" ")
     print("THANK YOU FOR USING THIS APPLICATION ".center(130))
     print(" ")
-    print("DEVELOPER - SHIVRAJ & MANAN".center(130))
+    print("DEVELOPER - MANAN".center(130))
     print("_"*109)
 
 c = '1'
